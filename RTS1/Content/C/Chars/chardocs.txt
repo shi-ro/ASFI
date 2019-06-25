@@ -1,0 +1,32 @@
+There are six characters.
+
+Control scheme:
+
+  Y
+X   B
+  A 
+ 
+For any character:
+LeftThumbstick - move and duck
+A - Jump
+RightTrigger - Shoot
+X, Y, and B - Abilities 1, 2 and 3
+Left bumper and right bumper at same time triggers ultimate ability
+Mana bar consists of 5 mana for each character.
+Mana regenerates over time 1mana/1s
+
+- BLUE FLAME
+	+ Shot - fire small fireball
+	+ B - Use 0 mana, shoot a larger fireball 
+	+ X - Use 2 mana, fire volley of homing fireballs
+	+ Y - Use 1 mana, toss small napalm bomb, nearby flooring is et on fire
+	+ Ultimate - Add one to the stage of your firepower
+		* 1 is dark blue
+		* 2 is blue 
+		* 3 is light blue
+		* 4 is very light blue
+		* 5 is white with blue accents
+	Go back a stage every single time you die
+
+- RED VAMPIRE
+	+
